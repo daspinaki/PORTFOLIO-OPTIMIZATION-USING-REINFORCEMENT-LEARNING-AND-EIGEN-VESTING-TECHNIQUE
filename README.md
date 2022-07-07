@@ -22,15 +22,15 @@ portfolio through such crises by avoiding a blood bath.
 
 
 <p align="center">
-<img src="Presentation_photos/FromFinalPPT/1.png" alt="Presentation_photos/FromFinalPPT/1.png" style="width:500px;height:600px;">
-<img src="Presentation_photos/FromFinalPPT/2.png" alt="Presentation_photos/FromFinalPPT/2.png" style="width:500px;height:600px;">
-<img src="Presentation_photos/FromFinalPPT/3.png" alt="Presentation_photos/FromFinalPPT/3.png" style="width:500px;height:600px;">
-<img src="Presentation_photos/FromFinalPPT/4.png" alt="Presentation_photos/FromFinalPPT/4.png" style="width:500px;height:600px;">
-<img src="Presentation_photos/FromFinalPPT/5.png" alt="Presentation_photos/FromFinalPPT/5.png" style="width:500px;height:600px;">
-<img src="Presentation_photos/FromFinalPPT/6.png" alt="Presentation_photos/FromFinalPPT/6.png" style="width:500px;height:600px;">
-<img src="Presentation_photos/FromFinalPPT/7.png" alt="Presentation_photos/FromFinalPPT/7.png" style="width:500px;height:600px;">
-<img src="Presentation_photos/FromFinalPPT/8.png" alt="Presentation_photos/FromFinalPPT/8.png" style="width:500px;height:600px;">
-<img src="Presentation_photos/FromFinalPPT/9.png" alt="Presentation_photos/FromFinalPPT/9.png" style="width:500px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/1.png" alt="Presentation_photos/FromFinalPPT/1.png" style="width:650px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/2.png" alt="Presentation_photos/FromFinalPPT/2.png" style="width:650px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/3.png" alt="Presentation_photos/FromFinalPPT/3.png" style="width:650px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/4.png" alt="Presentation_photos/FromFinalPPT/4.png" style="width:650px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/5.png" alt="Presentation_photos/FromFinalPPT/5.png" style="width:650px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/6.png" alt="Presentation_photos/FromFinalPPT/6.png" style="width:650px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/7.png" alt="Presentation_photos/FromFinalPPT/7.png" style="width:650px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/8.png" alt="Presentation_photos/FromFinalPPT/8.png" style="width:650px;height:600px;">
+<img src="Presentation_photos/FromFinalPPT/9.png" alt="Presentation_photos/FromFinalPPT/9.png" style="width:650px;height:600px;">
 </p>
 
 
